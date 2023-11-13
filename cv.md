@@ -2,8 +2,8 @@
 
 ## Personal Information
 * Email:	[alexandergamezo@gmail.com](mailto:alexandergamezo@gmail.com)
-* Phone:	+995595002687, +375297710766
-* Location:	Georgia(Batumi), Belarus(Minsk)
+* Phone:	+375297710766, +995595002687
+* Location:	Belarus(Minsk), Georgia(Batumi)
 * Discord nickname: @alexandergamezo
 * LinkedIn:	[https://www.linkedin.com/in/alexandergamezo](https://www.linkedin.com/in/alexandergamezo)
 
